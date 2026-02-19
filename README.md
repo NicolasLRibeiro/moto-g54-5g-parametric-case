@@ -24,11 +24,15 @@ The design allows dimension adjustments and printing optimization directly throu
 
 models/
 ├── model_g54_case.scad
+
+
 └── CASE_MOTOG54.stl
 
 images/
 ├── PRINT_GERAL.jpeg
+
 ├── PRINT_FRONT.jpeg
+
 └── PRINT_BACK.jpeg
 
 ## Usage
